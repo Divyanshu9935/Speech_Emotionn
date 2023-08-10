@@ -1,0 +1,7 @@
+# Speech_Emotionn
+This repository hosts a Speech Emotion Recognition (SER) project for identifying emotions in speech. 
+Utilizing machine learning, it classifies emotions like neutral, calm, happy, sad, angry, fearful, disgust, surprised, etc., from audio data.
+Features include audio preprocessing, model implementation, and result evaluation.
+Taking audio from the directory which should be in WAV form and predicting emotion.
+Reference and credit for code and dataset is from Data Flair.
+(https://data-flair.training/blogs/python-mini-project-speech-emotion-recognition/)
